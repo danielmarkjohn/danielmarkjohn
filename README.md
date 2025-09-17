@@ -43,7 +43,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
 
 ### 🤖 **AI / ML & Emerging Tech**  
-![LLMs](https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white) 
+![OPENAI](https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
