@@ -1,6 +1,6 @@
 # 💫 About Me  
 🔭 **Current Role:** Software Architect  
-🚀 **Specializations:** MEAN / MERN / .NET, GraphQL, Flask, MySQL, LLMs, AWS & Azure DevOps  
+🚀 **Specializations:** MEAN / MERN / PWA / APM / , GraphQL, Accessibility (WCGA), MicroFrontends, MonoRepos, CI/CD - DevOps  
 🌐 **Focus Areas:** Building SaaS platforms with AI-powered LLM integrations  
 🌱 **Learning:** Retrieval-Augmented Generation (RAG) for MEAN/MERN Applications  
 💡 **Passions:** Scalable architectures • Cloud automation • AI-driven solutions • Entrepreneurship  
