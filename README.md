@@ -14,28 +14,61 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danielmarkjohn/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge" alt="Connect with Daniel on LinkedIn" /></a>
-  <a href="https://github.com/danielmarkjohn?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-0b1220?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Explore my GitHub repositories" /></a>
-  <a href="https://github.com/danielmarkjohn?tab=followers"><img src="https://img.shields.io/github/followers/danielmarkjohn?style=for-the-badge&logo=github&label=Followers&labelColor=0b1220&color=164e63" alt="GitHub followers" /></a>
+  <img src="./assets/banner.svg" width="100%" alt="Build. Connect. Make intelligence useful. Daniel Mark — software architecture and applied AI." />
+</p>
+
+<h1 align="center">Daniel Mark</h1>
+
+<p align="center">
+  <b>Software Architect · Applied AI · SaaS Platforms</b><br />
+  Connecting great interfaces, scalable systems, and useful intelligence.
+</p>
+
+<p align="center">
+  <img src="./assets/typing.svg" width="600" alt="Current focus: applied AI, MCP integrations, agent workflows, and RAG exploration." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/danielmarkjohn"><img src="https://img.shields.io/badge/Follow_on_GitHub-0b1220?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Visit Daniel's GitHub profile to follow" /></a>
+  <a href="https://www.linkedin.com/in/danielmarkjohn/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Daniel on LinkedIn" /></a>
+  <a href="https://github.com/danielmarkjohn?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Daniel's public projects" /></a>
+</p>
+
+<p align="center">
+  Follow along for projects and experiments in applied AI, developer tooling, and full-stack architecture.
+</p>
+
+<p align="center">
+  <a href="#applied-ai">Applied AI</a> ·
+  <a href="#architecture">Architecture</a> ·
+  <a href="#stack">Stack</a> ·
+  <a href="#open-source">Projects</a> ·
+  <a href="#github-activity">Activity</a> ·
+  <a href="#connect">Connect</a>
 </p>
 
 ---
 
 ## /about
 
-I'm **Daniel Mark**, a Software Architect focused on **SaaS platforms, full-stack engineering, and AI-powered product experiences**. I work across MEAN and MERN applications, bringing together frontend architecture, backend services, cloud automation, and delivery pipelines.
+I connect **frontend experiences, backend systems, and cloud infrastructure** to build SaaS platforms. My foundation is **MEAN / MERN**, with a focus on scalable architecture, accessible interfaces, and dependable delivery.
 
-My current direction: **connect LLMs to real tools, useful context, and meaningful workflows**—with the architecture to support the product around them.
+I'm extending that foundation into **LLM integrations, MCP-connected tools, and agent workflows**—bringing AI into the products and processes people actually use.
+
+**What drives me:** thoughtful engineering, cloud automation, entrepreneurship, and turning complex ideas into useful software.
 
 ## /applied-ai
 
-**What I'm building toward and exploring right now:**
+**Current focus: the application layer of AI.**
+
+From model integrations to tools, context, and orchestration, these are the areas I'm building toward and exploring:
 
 | Focus | Engineering interests |
 | :--- | :--- |
 | **LLM integrations** | AI features in SaaS products, conversational interfaces, streaming responses, structured outputs, and API integrations. |
-| **MCP integrations** | Connecting AI applications with tools, APIs, and resources through the **Model Context Protocol**. |
+| **MCP integrations** | **Model Context Protocol** servers and clients that connect AI applications with tools, APIs, and resources. |
 | **Agents & automation** | Tool calling, workflow orchestration, context and state management, and human-in-the-loop execution. |
+| **AI developer workflows** | Coding agents, reusable skills, context engineering, and reviewable automation across the development lifecycle. |
 | **RAG · learning & prototyping** | Document ingestion, chunking, embeddings, vector search, reranking, and grounded answers for MEAN/MERN applications. |
 | **AI quality · exploring** | Evaluation, tracing, prompt versioning, guardrails, and the tradeoffs between response quality, latency, and token cost. |
 
@@ -94,15 +127,17 @@ My current direction: **connect LLMs to real tools, useful context, and meaningf
 
 ## /open-source
 
-Some of the foundations behind my full-stack work:
+Explore the foundations behind my full-stack work:
 
 | Repository | Focus |
 | :--- | :--- |
-| [**atlas-angular-frontend-boilerplate**](https://github.com/danielmarkjohn/atlas-angular-frontend-boilerplate) | Angular frontend foundations. |
-| [**atlas-node-backend**](https://github.com/danielmarkjohn/atlas-node-backend) | A backend foundation for the MEAN stack. |
-| [**atlas-angular-password-strength**](https://github.com/danielmarkjohn/atlas-angular-password-strength) | An Angular password-strength component. |
+| [**Angular frontend starter ↗**](https://github.com/danielmarkjohn/atlas-angular-frontend-boilerplate) | Frontend foundations with Angular. |
+| [**MEAN backend foundation ↗**](https://github.com/danielmarkjohn/atlas-node-backend) | Backend foundations with Node.js. |
+| [**Angular password strength ↗**](https://github.com/danielmarkjohn/atlas-angular-password-strength) | A focused Angular component project. |
 
 **[Explore all repositories →](https://github.com/danielmarkjohn?tab=repositories)**
+
+Found something useful? Star the repository. Have an improvement in mind? Open an issue or contribute a pull request.
 
 ## /github-activity
 
@@ -119,15 +154,32 @@ Some of the foundations behind my full-stack work:
   <a href="https://github.com/danielmarkjohn"><img src="./assets/activity.svg" width="100%" alt="Graph of recent GitHub contribution activity" /></a>
 </p>
 
-<p align="center"><sub>Public GitHub activity is one part of my work. Language charts describe repository composition, not proficiency.</sub></p>
+<p align="center"><sub>A snapshot of public activity. Language distribution reflects repository composition.</sub></p>
 
 ---
 
+## /connect
+
+**Working on an AI-powered product, a developer tool, or an architecture challenge? Let's compare ideas.**
+
+I'm interested in conversations around **applied AI, SaaS architecture, accessible web experiences, cloud automation, and entrepreneurship**.
+
+| Follow the work | Start a conversation |
+| :--- | :--- |
+| **[Follow on GitHub →](https://github.com/danielmarkjohn)**<br />Explore repositories, experiments, and future projects. | **[Connect on LinkedIn →](https://www.linkedin.com/in/danielmarkjohn/)**<br />Talk architecture, AI integrations, and product ideas. |
+
 <p align="center">
-  <b>Build useful systems. Make complexity understandable. Keep improving.</b><br /><br />
-  Interested in applied AI, SaaS architecture, developer tooling, or a product idea?<br />
-  <a href="https://www.linkedin.com/in/danielmarkjohn/">Let's connect on LinkedIn</a>.
+  <a href="https://github.com/danielmarkjohn?tab=followers"><img src="https://img.shields.io/github/followers/danielmarkjohn?style=social&label=GitHub%20community" alt="Daniel's GitHub followers" /></a>
 </p>
+
+<p align="center"><b>Build useful systems. Make complexity understandable. Keep improving.</b></p>
+
+<details>
+<summary>Widget credits</summary>
+
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) · [Stats Action](https://github.com/stats-organization/github-readme-stats-action) · [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) · [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) · [Shields.io](https://shields.io)
+
+</details>
 
 <details>
 <summary>Widget credits</summary>
