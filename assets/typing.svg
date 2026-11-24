@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="46" viewBox="0 0 600 46" role="img" aria-labelledby="title">
+  <title id="title">Current focus: applied AI, MCP integrations, agent workflows, and RAG exploration</title>
+  <style>
+    text { font: 15px ui-monospace, SFMono-Regular, Consolas, monospace; fill: #67e8f9; }
+    .line { opacity: 0; animation: line 20s steps(1,end) infinite; }
+    .a { opacity: 1; }
+    .b { animation-delay: 5s; }
+    .c { animation-delay: 10s; }
+    .d { animation-delay: 15s; }
+    .reveal { animation: reveal 5s steps(45,end) infinite; }
+    @keyframes line { 0%,24.99% { opacity: 1; } 25%,100% { opacity: 0; } }
+    @keyframes reveal { 0% { width: 0; } 55%,90% { width: 560px; } 100% { width: 0; } }
+    .still { display: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .animated { display: none; }
+      .still { display: block; }
+    }
+  </style>
+  <defs><clipPath id="reveal"><rect class="reveal" x="20" y="0" width="560" height="46"/></clipPath></defs>
+  <rect width="600" height="46" rx="9" fill="#0b1220"/>
+  <g class="animated" clip-path="url(#reveal)">
+    <text class="line a" x="22" y="29">&gt; focus: applied AI + LLM integrations</text>
+    <text class="line b" x="22" y="29">&gt; connect: models + context + tools via MCP</text>
+    <text class="line c" x="22" y="29">&gt; explore: agents + orchestration + evaluation</text>
+    <text class="line d" x="22" y="29">&gt; learn: RAG for MEAN / MERN applications</text>
+  </g>
+  <text class="still" x="22" y="29">&gt; applied AI / MCP / agents / RAG exploration</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Mark — Software Architect</title>
+  <desc id="desc">Applied AI, connected systems, and thoughtful engineering. A dark architectural grid connects interfaces, agents, context, and tools.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#11172e"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#164e63" stop-opacity=".55"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <ellipse cx="935" cy="170" rx="280" ry="245" fill="url(#glow)"/>
+  <path d="M24 1H1176" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="2">
+      <circle cx="52" cy="51" r="4" fill="#67e8f9"/>
+      <text x="68" y="55" fill="#94a3b8">DANIELMARKJOHN / ENGINEERING</text>
+    </g>
+    <text x="48" y="134" fill="#f1f5f9" font-size="64" font-weight="750" letter-spacing="-2">Daniel Mark<tspan fill="#67e8f9">.</tspan></text>
+    <text x="51" y="176" fill="#cbd5e1" font-size="23" font-weight="500">Software Architect</text>
+    <text x="51" y="217" fill="#94a3b8" font-size="18">Applied AI. Connected systems.</text>
+    <text x="51" y="243" fill="#94a3b8" font-size="18">Thoughtful engineering.</text>
+    <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="600">
+      <rect x="51" y="282" width="116" height="29" rx="7" fill="#102c39" stroke="#245362"/>
+      <text x="109" y="301" fill="#67e8f9" text-anchor="middle">APPLIED AI</text>
+      <rect x="177" y="282" width="76" height="29" rx="7" fill="#1d2038" stroke="#3f365c"/>
+      <text x="215" y="301" fill="#c4b5fd" text-anchor="middle">MCP</text>
+      <rect x="263" y="282" width="97" height="29" rx="7" fill="#1d2038" stroke="#3f365c"/>
+      <text x="311" y="301" fill="#c4b5fd" text-anchor="middle">AGENTS</text>
+      <rect x="370" y="282" width="87" height="29" rx="7" fill="#102c39" stroke="#245362"/>
+      <text x="413" y="301" fill="#67e8f9" text-anchor="middle">SAAS</text>
+    </g>
+    <g fill="none" stroke="#335265" stroke-width="1.5">
+      <circle cx="923" cy="177" r="108" stroke-dasharray="3 9"/>
+      <circle cx="923" cy="177" r="138" stroke="#273547"/>
+      <path d="M923 121V86M923 233V272M867 177H765M979 177H1091"/>
+      <path d="M826 80L865 120M981 234L1022 276" stroke="#6c5ba1"/>
+    </g>
+    <rect x="865" y="119" width="116" height="116" rx="26" fill="#101e30" stroke="url(#accent)" stroke-width="1.5"/>
+    <path d="M894 163L882 177L894 191M952 163L964 177L952 191M932 153L914 201" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="1" text-anchor="middle">
+      <rect x="872" y="58" width="102" height="30" rx="8" fill="#132233" stroke="#335265"/><text x="923" y="78" fill="#cbd5e1">INTERFACE</text>
+      <rect x="683" y="162" width="102" height="30" rx="8" fill="#132233" stroke="#335265"/><text x="734" y="182" fill="#cbd5e1">CONTEXT</text>
+      <rect x="1061" y="162" width="88" height="30" rx="8" fill="#132233" stroke="#335265"/><text x="1105" y="182" fill="#cbd5e1">TOOLS</text>
+      <rect x="872" y="270" width="102" height="30" rx="8" fill="#1d2038" stroke="#564578"/><text x="923" y="290" fill="#c4b5fd">AGENTS</text>
+    </g>
+    <circle cx="826" cy="80" r="4" fill="#a78bfa"/>
+    <circle cx="1022" cy="276" r="4" fill="#a78bfa"/>
+    <circle cx="785" cy="177" r="3" fill="#67e8f9"/>
+    <circle cx="1061" cy="177" r="3" fill="#67e8f9"/>
+  </g>
+</svg>
