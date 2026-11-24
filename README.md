@@ -9,15 +9,8 @@
 <h1 align="center">Software Architect · Applied AI · Enterprise & SaaS Solutioning</h1>
 
 <p align="center">
-  <b>Transforming Traditional Applications into Intelligent, AI-Powered Experiences</b>
-  <br><br>
-  AI-Driven Development Lifecycle (AI-DLC) · LLM Integration · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP) · AI Agents & Workflow Automation
-  <br><br>
-  Full-Stack Engineering · MEAN / MERN · API Design & Integration · Scalable Application Architecture · CMS Development & Customization
-  <br><br>
-  Cloud Infrastructure & DevOps · CI/CD Automation · Monitoring & Observability · Application & Web Security · Performance Optimization
-  <br><br>
-  Legacy System Modernization · Application & Data Migrations · Intelligent Automation · Developer Experience
+  <b>AI-Powered Apps · AI-DLC · LLMs & MCP · Agent Workflows</b><br>
+  MEAN / MERN · DevOps & Security · Observability · CMS · Legacy Modernization
 </p>
 
 <p align="center">
