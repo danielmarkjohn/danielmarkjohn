@@ -46,6 +46,15 @@ I'm extending that foundation into **LLM integrations, MCP-connected tools, and 
 
 ## /stack
 
+**AI & intelligent automation**
+
+![AI-DLC](https://img.shields.io/badge/AI--DLC-0b1220?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-0b1220?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0b1220?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0b1220?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0b1220?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-0b1220?style=for-the-badge)
+
 **Frontend & experience**
 
 ![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB)
