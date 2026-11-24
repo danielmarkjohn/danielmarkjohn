@@ -9,7 +9,7 @@
 <h1 align="center">Software Architect · Applied AI · Enterprise & SaaS Solutioning</h1>
 
 <p align="center">
-  <b>AI-DLC · Supercharging Boring Apps with AI · LLM integrations · MCP · Agent workflows · MEAN / MERN · DevOps · Monitoring and Security</b>
+  <b>AI-DLC · Supercharging Boring Apps with AI · LLM integrations · MCP · Agent workflows · MEAN / MERN · DevOps · Monitoring and Security · Web Security · CMS · Legacy Migrations</b>
 </p>
 
 <p align="center">
