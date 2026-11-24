@@ -23,9 +23,7 @@
   <a href="https://github.com/danielmarkjohn?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Daniel's public projects" /></a>
 </p>
 
-<p align="center">
-  Follow along for projects and experiments in applied AI, developer tooling, and full-stack architecture.
-</p>
+</br>
 
 <p align="center">
   <a href="#applied-ai">Applied AI</a> ·
