@@ -1,27 +1,25 @@
+
+
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Daniel Mark — Software Architect. Applied AI, connected systems, and thoughtful engineering." />
+  <img src="./assets/banner.svg" width="100%" alt="Build. Connect. Make intelligence useful. Daniel Mark — software architecture and applied AI." />
 </p>
 
-<h1 align="center">Software Architect · Applied AI · SaaS Platforms</h1>
 
 <p align="center">
-  Building useful AI into software that scales.<br />
-  <b>LLM integrations · Model Context Protocol · Agent workflows · MEAN / MERN</b>
+  <b>Software Architect · Applied AI · SaaS Platforms</b><br />
+  Connecting great interfaces, scalable systems, and useful intelligence.
 </p>
 
 <p align="center">
   <img src="./assets/typing.svg" width="600" alt="Current focus: applied AI, MCP integrations, agent workflows, and RAG exploration." />
 </p>
 
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Build. Connect. Make intelligence useful. Daniel Mark — software architecture and applied AI." />
-</p>
 
-<h1 align="center">Daniel Mark</h1>
+<h1 align="center">Software Architect · Applied AI · SaaS Platforms</h1>
 
 <p align="center">
-  <b>Software Architect · Applied AI · SaaS Platforms</b><br />
-  Connecting great interfaces, scalable systems, and useful intelligence.
+  Building useful AI into software that scales.<br />
+  <b>LLM integrations · Model Context Protocol · Agent workflows · MEAN / MERN</b>
 </p>
 
 <p align="center">
@@ -57,28 +55,6 @@ I'm extending that foundation into **LLM integrations, MCP-connected tools, and 
 
 **What drives me:** thoughtful engineering, cloud automation, entrepreneurship, and turning complex ideas into useful software.
 
-## /applied-ai
-
-**Current focus: the application layer of AI.**
-
-From model integrations to tools, context, and orchestration, these are the areas I'm building toward and exploring:
-
-| Focus | Engineering interests |
-| :--- | :--- |
-| **LLM integrations** | AI features in SaaS products, conversational interfaces, streaming responses, structured outputs, and API integrations. |
-| **MCP integrations** | **Model Context Protocol** servers and clients that connect AI applications with tools, APIs, and resources. |
-| **Agents & automation** | Tool calling, workflow orchestration, context and state management, and human-in-the-loop execution. |
-| **AI developer workflows** | Coding agents, reusable skills, context engineering, and reviewable automation across the development lifecycle. |
-| **RAG · learning & prototyping** | Document ingestion, chunking, embeddings, vector search, reranking, and grounded answers for MEAN/MERN applications. |
-| **AI quality · exploring** | Evaluation, tracing, prompt versioning, guardrails, and the tradeoffs between response quality, latency, and token cost. |
-
-## /architecture
-
-- **Frontend systems** — React, Angular, Next.js, PWAs, microfrontends, and accessible interfaces guided by WCAG.
-- **Application platforms** — MEAN / MERN, GraphQL, backend services, and real-time experiences.
-- **Engineering at scale** — Monorepos, CI/CD, cloud automation, application performance monitoring, and maintainable delivery practices.
-- **Product thinking** — Scalable architecture, useful automation, and an entrepreneurial approach to solving problems.
-
 ## /stack
 
 **Frontend & experience**
@@ -111,6 +87,30 @@ From model integrations to tools, context, and orchestration, these are the area
 ![Docker](https://img.shields.io/badge/Docker-0b1220?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0b1220?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0b1220?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+
+## /applied-ai
+
+**Current focus: the application layer of AI.**
+
+From model integrations to tools, context, and orchestration, these are the areas I'm building toward and exploring:
+
+| Focus | Engineering interests |
+| :--- | :--- |
+| **LLM integrations** | AI features in SaaS products, conversational interfaces, streaming responses, structured outputs, and API integrations. |
+| **MCP integrations** | **Model Context Protocol** servers and clients that connect AI applications with tools, APIs, and resources. |
+| **Agents & automation** | Tool calling, workflow orchestration, context and state management, and human-in-the-loop execution. |
+| **AI developer workflows** | Coding agents, reusable skills, context engineering, and reviewable automation across the development lifecycle. |
+| **RAG · learning & prototyping** | Document ingestion, chunking, embeddings, vector search, reranking, and grounded answers for MEAN/MERN applications. |
+| **AI quality · exploring** | Evaluation, tracing, prompt versioning, guardrails, and the tradeoffs between response quality, latency, and token cost. |
+
+## /architecture
+
+- **Frontend systems** — React, Angular, Next.js, PWAs, microfrontends, and accessible interfaces guided by WCAG.
+- **Application platforms** — MEAN / MERN, GraphQL, backend services, and real-time experiences.
+- **Engineering at scale** — Monorepos, CI/CD, cloud automation, application performance monitoring, and maintainable delivery practices.
+- **Product thinking** — Scalable architecture, useful automation, and an entrepreneurial approach to solving problems.
+
 
 <details>
 <summary><b>Expand the wider toolkit</b></summary>
