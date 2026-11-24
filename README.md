@@ -6,15 +6,14 @@
 
 
 
-<h1 align="center">Software Architect · Applied AI · Enterprise/SaaS Platforms</h1>
+<h1 align="center">Software Architect · Applied AI · Enterprise & SaaS Solutioning</h1>
 
 <p align="center">
-  Building useful AI into software that scales.<br />
-  <b>LLM integrations · Model Context Protocol · Agent workflows · MEAN / MERN · DevOps · Monitoring and Security</b>
+  <b>AI-DLC · Supercharging Boring Apps with AI · LLM integrations · MCP · Agent workflows · MEAN / MERN · DevOps · Monitoring and Security</b>
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" width="600" alt="Current focus: applied AI, MCP integrations, agent workflows, and RAG exploration." />
+  <img src="./assets/typing.svg" width="600" alt="Current focus: Modern Enterprise/SaaS Apps, Applied AI, MCP integrations, agent workflows, and RAG exploration." />
 </p>
 
 <p align="center">
